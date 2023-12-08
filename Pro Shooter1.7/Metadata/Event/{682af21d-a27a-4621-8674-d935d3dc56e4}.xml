@@ -111,7 +111,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{4fbf61bb-e496-48d0-998d-fac828dc9b38}">
 		<property name="volume">
-			<value>3.5</value>
+			<value>-2</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>
@@ -131,7 +131,7 @@
 			<value>13.639104166666666</value>
 		</property>
 		<property name="spawnRate">
-			<value>30</value>
+			<value>12</value>
 		</property>
 		<property name="minimumScatterDistance">
 			<value>2.20000005</value>
@@ -144,9 +144,6 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{0fea9c5b-39d1-4382-9d25-c0203c76e297}">
-		<property name="volume">
-			<value>2</value>
-		</property>
 		<property name="name">
 			<value>Announcement</value>
 		</property>
