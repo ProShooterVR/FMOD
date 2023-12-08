@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d9245601-6658-41c6-b8ed-b99c51779b2b}">
+		<property name="assetPath">
+			<value>NewMusic/pro shooter Music_Avenaim's Groove 8 - Beat 1.1-St.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>20</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7eb5c29b-30d3-4823-b923-cb169d5422e5}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{40c14175-ac2b-46f9-b1e7-d4a81935332c}">
+		<property name="name">
+			<value>Weapons</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{c78052f5-474a-4e0d-b6a0-58e5f1eda9c5}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{e424a558-2743-4848-8ffe-2f599082d413}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{51bbb5fe-5813-4016-8468-656dc4c2b156}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{c78052f5-474a-4e0d-b6a0-58e5f1eda9c5}">
+		<relationship name="effects">
+			<destination>{090a88d7-7fc0-4fc5-90b2-213edc41b470}</destination>
+			<destination>{498af913-6f9a-4f1b-b7e4-c322c01195b3}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{e424a558-2743-4848-8ffe-2f599082d413}" />
+	<object class="MixerBusFader" id="{090a88d7-7fc0-4fc5-90b2-213edc41b470}" />
+	<object class="Sidechain" id="{498af913-6f9a-4f1b-b7e4-c322c01195b3}">
+		<property name="level">
+			<value>-7</value>
+		</property>
+	</object>
+</objects>

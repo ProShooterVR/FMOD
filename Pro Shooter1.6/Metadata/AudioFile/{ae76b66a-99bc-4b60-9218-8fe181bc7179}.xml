@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{ae76b66a-99bc-4b60-9218-8fe181bc7179}">
+		<property name="assetPath">
+			<value>Weapons/10mRifle/Pro Shooter_Pistol_10m rifle_Fire.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.54004166666666664</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7eb5c29b-30d3-4823-b923-cb169d5422e5}</destination>
+		</relationship>
+	</object>
+</objects>
