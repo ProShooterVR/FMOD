@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{b229aff6-459f-41db-92d3-1dce95f57647}">
+	<object class="AudioFile" id="{b4e5563e-28df-4d83-af20-01795a7211b2}">
 		<property name="assetPath">
-			<value>Crowd/Pro Shooter_Crowd_AMB.wav</value>
+			<value>Crowd/Pro Shooter_Crowd_Low.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>4.6723541666666666</value>
+			<value>7.483625</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{7eb5c29b-30d3-4823-b923-cb169d5422e5}</destination>

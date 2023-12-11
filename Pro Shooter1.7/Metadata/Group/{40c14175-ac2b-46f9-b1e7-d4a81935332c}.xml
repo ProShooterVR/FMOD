@@ -18,6 +18,7 @@
 		<relationship name="effects">
 			<destination>{090a88d7-7fc0-4fc5-90b2-213edc41b470}</destination>
 			<destination>{498af913-6f9a-4f1b-b7e4-c322c01195b3}</destination>
+			<destination>{7b14aa93-134e-4373-9519-bb7274290411}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{e424a558-2743-4848-8ffe-2f599082d413}" />
@@ -25,6 +26,17 @@
 	<object class="Sidechain" id="{498af913-6f9a-4f1b-b7e4-c322c01195b3}">
 		<property name="level">
 			<value>-7</value>
+		</property>
+	</object>
+	<object class="LimiterEffect" id="{7b14aa93-134e-4373-9519-bb7274290411}">
+		<property name="boost">
+			<value>1.80000007</value>
+		</property>
+		<property name="ceiling">
+			<value>-0.200000003</value>
+		</property>
+		<property name="release">
+			<value>16</value>
 		</property>
 	</object>
 </objects>

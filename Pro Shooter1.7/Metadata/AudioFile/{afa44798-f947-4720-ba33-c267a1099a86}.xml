@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{b229aff6-459f-41db-92d3-1dce95f57647}">
+	<object class="AudioFile" id="{afa44798-f947-4720-ba33-c267a1099a86}">
 		<property name="assetPath">
-			<value>Crowd/Pro Shooter_Crowd_AMB.wav</value>
+			<value>Crowd/Pro Shooter_Crowd_Meduim.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>4.6723541666666666</value>
+			<value>10.048041666666666</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{7eb5c29b-30d3-4823-b923-cb169d5422e5}</destination>
