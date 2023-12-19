@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{b9b9d4e3-ef28-4fec-b0ad-e79fce0d6184}">
+		<property name="name">
+			<value>25M</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{f8083a9e-bdf3-4d9f-b1be-b27f8555feb4}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{90635d8f-84c2-487a-81a2-2401c313d6a2}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{5c5d3d64-fc57-4af3-82e7-b0f6a2eb4395}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{f8083a9e-bdf3-4d9f-b1be-b27f8555feb4}">
+		<relationship name="effects">
+			<destination>{4ae45c69-2c32-4d09-99ff-e40685911f24}</destination>
+			<destination>{36290e4f-c23a-4f52-9d46-a62e63b884ca}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{90635d8f-84c2-487a-81a2-2401c313d6a2}" />
+	<object class="MixerBusFader" id="{4ae45c69-2c32-4d09-99ff-e40685911f24}" />
+	<object class="LimiterEffect" id="{36290e4f-c23a-4f52-9d46-a62e63b884ca}">
+		<property name="boost">
+			<value>1.60000002</value>
+		</property>
+		<property name="ceiling">
+			<value>-0.5</value>
+		</property>
+	</object>
+</objects>

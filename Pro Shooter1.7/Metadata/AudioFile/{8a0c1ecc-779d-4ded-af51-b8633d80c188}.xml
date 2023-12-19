@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{462e3296-0ddb-4198-8f3c-234ba41a4833}">
+	<object class="AudioFile" id="{8a0c1ecc-779d-4ded-af51-b8633d80c188}">
 		<property name="assetPath">
-			<value>Pro Shooter_UI_Positive.wav</value>
+			<value>Weapons/25m Rapid/Pro Shooter_WEAPON_25M_rapid_3.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>1.2233333333333334</value>
+			<value>0.81133333333333335</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{7eb5c29b-30d3-4823-b923-cb169d5422e5}</destination>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{8418b962-e6ee-4cb3-afa1-f72ed3cdeea3}">
+	<object class="AudioFile" id="{921637c5-8a1d-4260-a628-183130e0bb6e}">
 		<property name="assetPath">
-			<value>Pro Shooter_UI_Negative.wav</value>
+			<value>UISFGX/25m Rapid Fire/Pro Shooter_WEAPON_25M_VO_4secseriesload.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.40333333333333332</value>
+			<value>3.1253333333333333</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{7eb5c29b-30d3-4823-b923-cb169d5422e5}</destination>
