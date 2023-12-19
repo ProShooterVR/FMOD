@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{9f6456a4-3bda-4af5-b48e-6eedd7d9579e}">
+		<property name="assetPath">
+			<value>UISFGX/25m Rapid Fire/UNLOAD.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.83591836734693881</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7eb5c29b-30d3-4823-b923-cb169d5422e5}</destination>
+		</relationship>
+	</object>
+</objects>
