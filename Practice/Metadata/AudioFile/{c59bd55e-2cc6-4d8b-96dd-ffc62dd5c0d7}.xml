@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{c59bd55e-2cc6-4d8b-96dd-ffc62dd5c0d7}">
+		<property name="assetPath">
+			<value>MF_Sound design_Footsteps_concrete_3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.052743764172335603</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{456e9fc6-8c78-47fd-ba6f-5fc532aa6150}</destination>
+		</relationship>
+	</object>
+</objects>
