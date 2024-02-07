@@ -19,6 +19,7 @@
 			<destination>{090a88d7-7fc0-4fc5-90b2-213edc41b470}</destination>
 			<destination>{498af913-6f9a-4f1b-b7e4-c322c01195b3}</destination>
 			<destination>{7b14aa93-134e-4373-9519-bb7274290411}</destination>
+			<destination>{dec72a3d-ef32-4d4c-9e36-2ff37e0f46db}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{e424a558-2743-4848-8ffe-2f599082d413}" />
@@ -37,6 +38,11 @@
 		</property>
 		<property name="release">
 			<value>16</value>
+		</property>
+	</object>
+	<object class="SFXReverbEffect" id="{dec72a3d-ef32-4d4c-9e36-2ff37e0f46db}">
+		<property name="wetLevel">
+			<value>-17</value>
 		</property>
 	</object>
 </objects>
