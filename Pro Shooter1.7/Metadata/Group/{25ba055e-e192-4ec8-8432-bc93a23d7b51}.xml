@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="MixerGroup" id="{25ba055e-e192-4ec8-8432-bc93a23d7b51}">
+		<property name="name">
+			<value>Shotgun</value>
+		</property>
+		<relationship name="effectChain">
+			<destination>{fb56cbca-e842-45c3-ad47-8c814fb454fe}</destination>
+		</relationship>
+		<relationship name="panner">
+			<destination>{4bfde980-00d9-472d-8ff9-609091f4219c}</destination>
+		</relationship>
+		<relationship name="output">
+			<destination>{40c14175-ac2b-46f9-b1e7-d4a81935332c}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusEffectChain" id="{fb56cbca-e842-45c3-ad47-8c814fb454fe}">
+		<relationship name="effects">
+			<destination>{352319c3-892d-447a-95cd-a22ca76fba8c}</destination>
+			<destination>{7950dcac-a2e8-4774-a133-626426078907}</destination>
+		</relationship>
+	</object>
+	<object class="MixerBusPanner" id="{4bfde980-00d9-472d-8ff9-609091f4219c}" />
+	<object class="MixerBusFader" id="{352319c3-892d-447a-95cd-a22ca76fba8c}" />
+	<object class="LimiterEffect" id="{7950dcac-a2e8-4774-a133-626426078907}">
+		<property name="boost">
+			<value>1.60000002</value>
+		</property>
+	</object>
+</objects>
